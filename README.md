@@ -30,8 +30,6 @@ claude plugin marketplace add tiendat2204/fe-agent-skills
 claude plugin install fe-skills@tiendat-skills
 ```
 
-Repo private: máy cài cần đăng nhập GitHub có quyền đọc repo (`gh auth login` hoặc SSH key).
-
 Cập nhật: `claude plugin marketplace update tiendat-skills`, rồi mở session mới hoặc chạy `/reload-plugins`.
 
 Dùng thử khi đang sửa repo này (không cần cài):
