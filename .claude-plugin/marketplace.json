@@ -1,0 +1,14 @@
+{
+  "name": "tiendat-skills",
+  "description": "Frontend agent skills by tiendat2204",
+  "owner": {
+    "name": "tiendat2204"
+  },
+  "plugins": [
+    {
+      "name": "fe-skills",
+      "source": "./plugins/fe-skills",
+      "description": "Bootstrap project-specific frontend skills, then build components, forms and pages and review PRs following the project's own conventions"
+    }
+  ]
+}

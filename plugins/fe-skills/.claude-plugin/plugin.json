@@ -1,0 +1,8 @@
+{
+  "name": "fe-skills",
+  "version": "1.0.0",
+  "description": "Bootstrap project-specific frontend skills, then build components, forms and pages and review PRs following the project's own conventions",
+  "author": {
+    "name": "tiendat2204"
+  }
+}
